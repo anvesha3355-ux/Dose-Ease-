@@ -1,0 +1,17 @@
+{
+  "name": "DoseEase - Senior Medication Manager",
+  "short_name": "DoseEase",
+  "description": "Senior-friendly prescription routine, medicine schedule, and automated doctor-verified refills application.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

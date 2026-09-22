@@ -1,0 +1,15 @@
+{
+  "appId": "com.doseease.app",
+  "appName": "DoseEase",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": "",
+      "releaseType": "APK"
+    }
+  }
+}
